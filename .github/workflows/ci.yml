@@ -1,4 +1,4 @@
-name: CI
+name: CI[![CI](https://github.com/atom/flight-manual.atom.io/actions/workflows/ci.yml/badge.svg?branch=dependabot%2Fnpm_and_yarn%2Flodash-4.17.21&event=fork)](https://github.com/atom/flight-manual.atom.io/actions/workflows/ci.yml)
 
 on: [push]
 
